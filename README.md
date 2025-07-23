@@ -1,0 +1,2 @@
+# NoteTakingApp.
+Cloud computing project
